@@ -1,6 +1,6 @@
 # Basic HTML Website
 
-A multi-page HTML-only portfolio website built as part of the [roadmap.sh frontend projects](https://roadmap.sh/projects/basic-html-website).
+A multi-page HTML-only portfolio website.
 
 ## Pages
 
